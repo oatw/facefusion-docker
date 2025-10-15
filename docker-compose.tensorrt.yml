@@ -1,5 +1,5 @@
 services:
- facefusion-tensorrt:
+ oatw-facefusion-tensorrt:
   build:
    context: .
    dockerfile: Dockerfile.tensorrt

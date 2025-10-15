@@ -1,5 +1,5 @@
 services:
- facefusion-cuda:
+ oatw-facefusion-cuda:
   build:
    context: .
    dockerfile: Dockerfile.cuda

@@ -1,5 +1,5 @@
 services:
- facefusion-rocm:
+ oatw-facefusion-rocm:
   build:
    context: .
    dockerfile: Dockerfile.rocm

@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 
 ```
-git clone https://github.com/facefusion/facefusion-docker.git
+git clone https://github.com/oatw/facefusion-docker.git
 ```
 
 Run the `CPU` container:
@@ -71,7 +71,6 @@ Browse the `ROCm` container:
 ```
 http://localhost:7880
 ```
-
 
 Documentation
 -------------

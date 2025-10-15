@@ -1,5 +1,5 @@
 services:
- facefusion-cpu:
+ oatw-facefusion-cpu:
   build:
    context: .
    dockerfile: Dockerfile.cpu
